@@ -1,0 +1,16 @@
+字符串的一些buildin method
+string.split() string.title() string.upper() string.swapcase()
+isalnum() isalpha() 爽！大快人心！
+
+
+join()  :"-".join("GNU/Linux is great".split())
+
+GNU/Linux-is-great
+
+strip(chars) 剥离包含某字符的首尾
+
+s.find() 找到子字符串的首字符的索引值
+
+s.startswith() boolean
+
+s.endswith() boolean
