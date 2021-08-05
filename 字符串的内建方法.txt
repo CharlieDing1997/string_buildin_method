@@ -20,3 +20,10 @@ s.endswith() boolean
 字符串的切割，连接，大小写转换，搜索等
 
 split,extend,upper,lower,find, xxx in xxx...
+
+""" abcb
+    FDfD
+    DFVFV #分行大法
+"""
+
+方法有很多，这里不过多重复，重点是四个字：“融会贯通”
