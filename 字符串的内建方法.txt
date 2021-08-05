@@ -14,3 +14,9 @@ s.find() 找到子字符串的首字符的索引值
 s.startswith() boolean
 
 s.endswith() boolean
+
+总结起来，字符串的一些操作
+
+字符串的切割，连接，大小写转换，搜索等
+
+split,extend,upper,lower,find, xxx in xxx...
